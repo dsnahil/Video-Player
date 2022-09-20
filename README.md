@@ -1,6 +1,6 @@
 # MADPractical6_20012011162
 
-Create an Video player application
+Create a Video player application
 
 ![mad6 (1)](https://user-images.githubusercontent.com/92240128/191330089-a049820e-280b-4d32-a996-89eac1d22b75.jpeg)
 
