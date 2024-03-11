@@ -1,4 +1,3 @@
-# MADPractical6_20012011162
 
 Create a Video player application
 
